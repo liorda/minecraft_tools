@@ -1,7 +1,7 @@
 # minecraft_tools
 
 General instructions
-* Don't use root
+* Don't use the root user, `su - user` instead
 * Use screen -dR
 * Start the server with the script ~/minecraft_tools/start_server.sh
 
