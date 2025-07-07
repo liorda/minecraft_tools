@@ -12,6 +12,10 @@ Backup instructions
 4. Backup this folder with `git add . && git commit -m "." && git push`
 5. TODO automate
 
+Upgrade instructions
+1. download a new server from https://www.minecraft.net/en-us/download/server
+2. put it in ~/minecraft
+
 If required to restart the VM
 1. Follow the backup instructions above
 2. Restart with sudo reboot
