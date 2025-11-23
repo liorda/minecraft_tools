@@ -1,4 +1,4 @@
 #!/bin/env bash
-cd ~/minecraft
+cd /mnt/minecraft_data_20gb/minecraft
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 
